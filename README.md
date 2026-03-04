@@ -5,6 +5,10 @@ Aplicação web em PHP para planejamento e execução de cultos, com dois perfis
 - `diretora de musica`: organiza cultos, participantes e músicas.
 - `sonoplasta`: acompanha a execução e finaliza o culto.
 
+
+[![Vídeo do Sistema](https://img.youtube.com/vi/fqvPqp8-0Eg/0.jpg)](https://youtu.be/fqvPqp8-0Eg)
+
+
 ## Funcionalidades
 
 ### Diretora de Música
